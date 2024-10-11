@@ -9,3 +9,7 @@
 [file_servers]
 192.168.56.139 ansible_user=dldperez
 #ubuntu server3
+
+[workstations]
+192.168.56.139 ansible_user=dldperez
+#ubuntu server3 
